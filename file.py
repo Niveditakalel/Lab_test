@@ -1,3 +1,3 @@
 a=20
 b=50
-c=("Result : ",a+b)
+c=("Result is: ",a+b)
